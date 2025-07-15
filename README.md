@@ -71,8 +71,3 @@ Develop a prototype radar system based on Arduino that detects objects within a 
 
 
 
-(Add your circuit diagram or screenshots here using Markdown image syntax after uploading images.)
-
-```markdown
-![Radar Circuit Diagram](images/circuit.png)
-![MATLAB Radar Output](images/radar_output.png)
